@@ -8,7 +8,7 @@ The server exposes 14 utilities for string tokenization/formatting, JSON extract
 
 ## Dependency
 
-The shared MCP implementation is provided by [mcpxx](https://github.com/pooriayousefi/mcpxx), pinned as a Git submodule at commit `0ec0e6ac04acc46fb7c6160f1a16a2ead19ee4a0` under `external/mcpxx`.
+The shared MCP implementation is provided by [mcpxx](https://github.com/pooriayousefi/mcpxx), pinned as a Git submodule at commit `8d3e971072c263dd5132c5b48e44c15926d21190` under `external/mcpxx`.
 
 ## Clone and build
 
